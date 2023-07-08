@@ -1,0 +1,28 @@
+baseurl: https://erschbamer.net/
+title: Marlene Erschbamer, Dr. phil.
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: 'Marlene Erschbamer'
+  description: Welcome! Find out about my scientific career, my current projects and also about areas and interests outside the scientific bubble.
+  email: marlene@erschbamer.net
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - I am specialised in Himalayan, Tibetan and Buddhist Studies as well as in Western Philosophy.
+    - My aim is to preserve knowledge and make it accessible. In particular, I want to bring women back into history.
+    - Independent Scholar, based in the German speaking part of Italy.
+  social:
+    email: marlene@erschbamer.net
+    linkedin: https://www.linkedin.com/in/marlene-erschbamer-786aa3145/
+    academia: https://independent.academia.edu/MarleneErschbamer
+    researchgate: https://www.researchgate.net/profile/Marlene-Erschbamer
+  style: default
