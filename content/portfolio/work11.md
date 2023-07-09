@@ -18,8 +18,10 @@ Sponsored by the Bavarian Gender Equality Grant (BGF) and the women’s represen
 
 ##### Related articles
 
-- 
+- 2019: Taming of supernatural entities and animal sacrifice. The synthesis of Tibetan Buddhism and local shamanistic traditions in Northern Sikkim (India), Études mongoles et sibériennes, centrasiatiques et tibétaines [Online], 50 | 2019, [DOI: 10.4000/emscat.3915](https://journals.openedition.org/emscat/3915).
+- 2015: “Wild and Lawless Area”? Monastic Institutions in the Lachen Valley (North Sikkim, India), Bulletin of Tibetology 51 (1+2), Special Issue: Buddhist Himalaya: Perspectives on the Tibetan Cultural Area ed. by Anna Balikci-Denjongpa and Marlene Erschbamer, pp. 47-70.
 
 ##### Related talks
 
-- 
+- 04/2017: Sacred landscape and the creation of a pilgrimage site: The Gurudongmar Lake in North Sikkim (India), The New School, New York, conference “Mountains and Sacred Landscapes”, International Society for the Study of Religion, Nature and Culture (ISSRNC).
+- 03/2017: Taming of Demons and Animal Sacrifice: The Synthesis of Buddhism and Shamanistic Traditions in Northern Sikkim, LMU Munich, workshop “Evolving through Context: The Transformation of Buddhism(s) and their Legitimation(s)”, Doctoral Program in Buddhist Studies.

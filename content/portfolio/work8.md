@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:59:22+05:30"
 draft: false
-image: img/portfolio/marlene.homepage.xy.5.jpg
+image: img/portfolio/Tashiding.jpg
 showonlyimage: false
 title: Teaching Experience
 weight: 9

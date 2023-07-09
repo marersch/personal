@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:56:17+05:30"
 draft: false
-image: img/portfolio/marlene.homepage.12.jpg
+image: img/portfolio/marlene.homepage.xy.jpg
 showonlyimage: false
 title: This is me
 weight: 6
@@ -12,11 +12,8 @@ weight: 6
 My strengths are building bridges between disciplines, bringing in new perspectives and creating space for discussion.
 <!--more-->
 
-In addition to my most important tool - amazement at seemingly self-evident things - I bring a great deal of knowledge and computer skills (in addition to the usual programmes, I also use programmes such as R, AdobePhotoshop, AdobeIllustrator).
+In addition to my most important tool - amazement at seemingly self-evident things - I bring a great deal of erudition and computer skills. My previous employers have appreciated my reliable and conscientious way of working.
 
-
-My previous employers have appreciated my reliable and conscientious way of working.
-
-I find my balance to my intellectual activity in painting, music, with my plants, cooking or sewing. 
+I find my balance to my intellectual activity in painting, music, organic gardening, cooking or sewing. 
 
 I am always looking for new intellectual adventures and challenges!
