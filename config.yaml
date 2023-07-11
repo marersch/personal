@@ -14,8 +14,8 @@ params:
       url: portfolio/
     - name: About
       url: about/
-    - name: Get in touch
-      url: contact/
+#    - name: Get in touch
+#      url: contact/
   sidebarAbout:
     - I am specialised in Himalayan, Tibetan, and Buddhist Studies and in Western Philosophy.
     - My aim is to bring together different disciplines, preserve knowledge and highlight marginal aspects of history that are largely overlooked but have shaped our times. In particular, I want to write women back into history.
