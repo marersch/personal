@@ -25,7 +25,7 @@ I see myself as a humanist who, despite specialisation in the sense of a univers
 
 #### Emphasis in Research
 
-- History, philosophy (on a global level) and the place that women have had and still have today [--> Blog about herstory](www.erinnermich.eu) (in German)
+- History, philosophy (on a global level) and the place that women have had and still have today [--> Blog about herstory](https://www.erinnermich.eu) (in German)
 - Tibetan Buddhism and the role(s) of women
 - The Barawa Kagyu ('Ba' ra ba bKa' brgyud pa) tradition of Tibetan Buddhism
 - Intersection of religion, nature, and culture within the Tibetan Cultural Area

@@ -7,7 +7,7 @@ title: Teaching Experience
 weight: 9
 ---
 
-I am very grateful to all the teachers I have had the pleasure to meet. At the same time, I appreciate the things I can learn in my life, through living, meeting people, travelling... these life lessons enrich me. **Thanks to the teachers who are often unaware that they are teaching me.** However, I have been able to share some of my knowledge with students myself.
+I am very grateful to all the teachers I have had the pleasure to meet. At the same time, I appreciate the things I can learn in my life, through living, meeting people, travelling... these life lessons enrich me. **I am grateful to all my teachers, especially those who are unaware that they have taught me.** However, I have been able to share some of my knowledge with students myself.
 <!--more-->
 
 ##### University teaching experience

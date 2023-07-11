@@ -14,6 +14,5 @@ My strengths are building bridges between disciplines, bringing in new perspecti
 
 In addition to my most important tool - amazement at seemingly self-evident things - I bring a great deal of erudition and computer skills. My previous employers have appreciated my reliable and conscientious way of working.
 
-I find my balance to my intellectual activity in painting, music, organic gardening, cooking or sewing. 
+I am always looking for new intellectual adventures and challenges! To balance my intellectual activities, I also enjoy painting, singing, organic gardening, cooking and sewing. 
 
-I am always looking for new intellectual adventures and challenges!

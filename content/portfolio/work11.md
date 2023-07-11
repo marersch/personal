@@ -18,7 +18,7 @@ Sponsored by the Bavarian Gender Equality Grant (BGF) and the women’s represen
 
 ##### Related articles
 
-- 2019: Taming of supernatural entities and animal sacrifice. The synthesis of Tibetan Buddhism and local shamanistic traditions in Northern Sikkim (India), Études mongoles et sibériennes, centrasiatiques et tibétaines [Online], 50 | 2019, [DOI: 10.4000/emscat.3915](https://journals.openedition.org/emscat/3915).
+- 2019: Taming of supernatural entities and animal sacrifice. The synthesis of Tibetan Buddhism and local shamanistic traditions in Northern Sikkim (India), Études mongoles et sibériennes, centrasiatiques et tibétaines [Online], 50 | 2019, [online](https://doi.org/10.4000/emscat.3915).
 - 2015: “Wild and Lawless Area”? Monastic Institutions in the Lachen Valley (North Sikkim, India), Bulletin of Tibetology 51 (1+2), Special Issue: Buddhist Himalaya: Perspectives on the Tibetan Cultural Area ed. by Anna Balikci-Denjongpa and Marlene Erschbamer, pp. 47-70.
 
 ##### Related talks

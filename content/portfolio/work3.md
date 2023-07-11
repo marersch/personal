@@ -14,7 +14,7 @@ Different stations have shaped my research craft and my approach to new things. 
 
 - since 06/2022: Editor for the [Oral History of Tibetan Studies Project](https://oralhistory.iats.info/).
 - since 06/2020: Postdoctoral Research Project, Buddhism and the Role of Gender in Sikkim: Cultural and Religious Perspectives on Current Challenges in the Himalayas.
-- 05/2020 - 05/2023 (as needed): Proofreading, Bavarian Academy of Sciences and Humanities, Munich, Proofreading of translations from Tibetan into German for the Tibetan Dictionary Project.
+- 05/2020 - 05/2023 (on request): Proofreading, Bavarian Academy of Sciences and Humanities, Munich, Proofreading of translations from Tibetan into German for the Tibetan Dictionary Project.
 - since 10/2019: Postdoctoral Research Project, A Boat by which one Enters Liberation: Imagery, Unheard Voices and Religious Networks within the Barawa Tradition of Tibetan Buddhism - *special focus on the role(s) of women*.
 - 10/2018 - 09/2019: Postdoctoral Research Project, LMU Munich, Element water – source of life. Rituals, myths, and tradition in a Buddhist society in the Himalaya. Sponsored by the Bavarian Gender Equality Grant (BGF) and the women’s representative LMU Munich.
 - 10/2016 - 09/2017: Postdoctoral Research Project, LMU Munich, Glorious Riceland, gateway to Tibet. Northern Sikkim in Tibetan and Western travel reports. Sponsored by the Bavarian Gender Equality Grant (BGF) and the women’s representative LMU Munich.

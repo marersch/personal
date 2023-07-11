@@ -17,9 +17,10 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - I am specialised in Himalayan, Tibetan and Buddhist Studies as well as in Western Philosophy.
-    - My aim is to preserve knowledge and make it accessible. In particular, I want to bring women back into history.
+    - I am specialised in Himalayan, Tibetan, and Buddhist Studies and in Western Philosophy.
+    - My aim is to bring together different disciplines, preserve knowledge and highlight marginal aspects of history that are largely overlooked but have shaped our times. In particular, I want to write women back into history.
     - Independent Scholar, based in the German speaking part of Italy.
+
   social:
     email: marlene@erschbamer.net
     linkedin: https://www.linkedin.com/in/marlene-erschbamer-786aa3145/
