@@ -15,7 +15,7 @@ weight: 1
 - 07/2022: Authoress, messenger, nun: Nyima Chodron and her role(s) within the Barawa Kagyupa, Prague, Sixteenth Seminar of the International Association for Tibetan Studies (IATS).
 - 07/2021: Onorate, maliziose, seducenti: la tradizione Barawa ('Ba' ra ba bKa' brgyud pa) e la rappresentazione delle donne, Sapienza Università di Roma, Convegno AISTHiM "Traditions, Translations and Transitions in the Cultural History of Tibet, the Himalayas and Mongolia".
 - 04/2021: Buddhism and Gender Perspectives in Sikkim: Historical and Contemporary Approaches, online talk for the Tibetan Graduate Studies Seminar, Oxford University.
-- 02/2021:Religious Challenges among Buddhist communities in Sikkim (North India), Utrecht University, online conference "Religious Transformation and Gender: Contestations in/and the Study of Relgion, Gender and Sexuality".
+- 02/2021: Religious Challenges among Buddhist communities in Sikkim (North India), Utrecht University, online conference "Religious Transformation and Gender: Contestations in/and the Study of Relgion, Gender and Sexuality".
 - 08/2020: Remarkable Buddhist Nuns in Sikkim, Heidelberg Universität, online workshop "Female Religious Leaders and Dynamics of Female Agency in Religious Settings in South Asia".
 - 01/2020: Gelehrter, Gründervater, Grenzgänger: Barawa Gyeltsen Pelzang (1310-91) im Kontext seiner Zeit, Universität Wien, Guest lecture at the Department of South Asian, Tibetan and Buddhist Studies.
 - 07/2019: Provider and Destroyer of Life: Rituals, Myths, and Significance of Water in Sikkim, a Tibetan influenced Indian state in the Himalaya, Paris, Fifteenth Seminar of the International Association for Tibetan Studies (IATS).
