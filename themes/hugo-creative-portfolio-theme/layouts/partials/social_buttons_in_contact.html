@@ -54,4 +54,14 @@
     <i class="fa fa-whatsapp"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.researchgate }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="ResearchGate" rel="me">
+    <i class="ai ai-researchgate"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.academia }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Academia" rel="me">
+    <i class="ai ai-academia"></i>
+  </a>
+  {{end}}
 </p>
