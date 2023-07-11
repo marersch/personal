@@ -8,9 +8,11 @@ In the beginning there was wonder - wonder at the world, at people, at human beh
 
 ![This is me][1]
 
+marlene@erschbamer.net
+
 I see myself as a humanist who, despite specialisation in the sense of a university education, has a broad interest in everything that makes me wonder. I am always looking for new paths, crossroads and, eventually, answers.
 
->*Everything flows*  - Heraclitus
+>*Everything flows (panta rhei)*  - Heraclitus
 
 #### Education
 

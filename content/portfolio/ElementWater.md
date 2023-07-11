@@ -25,7 +25,7 @@ Sponsored by the Bavarian Gender Equality Grant (BGF) and the women’s represen
 ##### Related articles
 
 - 2021: Provider and Destroyer of Life: Legendary and Historical Buddhist Perspectives on Water and Its Socio-Cultural Significance in Sikkim, Bulletin of Tibetology 52 (1), pp. 59-74.
-- 2021: Better than any Doctor. Buddhist Perspectives on Hot Springs in Sikkim, Himalayas. Etnološka tribina, 51 (44), pp. 54-70, [online](https://doi.org/10.15378/1848-9540.2021.44.03).
+- 2021: Better than any Doctor. Buddhist Perspectives on Hot Springs in Sikkim, Himalayas. Etnološka tribina, 51 (44), pp. 54-70, [DOI 10.15378/1848-9540.2021.44.03](https://doi.org/10.15378/1848-9540.2021.44.03).
 
 
 ##### Related talks
