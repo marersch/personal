@@ -18,6 +18,12 @@ weight: 1
 
 
 ##### Articles
+- 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
+- 2024: [The Third Kagyu Tulku, Ngawang Chokyi Gyatso](https://treasuryoflives.org/biographies/view/Third-Kagyu-Tulku-Ngawang-Chokyi-Gyatso/9764), Treasury of Lives [Online].
+- 2024: [The Fourth Kagyu Tulku, Kelzang Choying Gyatso](https://treasuryoflives.org/biographies/view/Fourth-Kagyu-Tulku-Kelzang-Choying-Gyatso/13856), Treasury of Lives [Online].
+- 2024: [The Fifth Kagyu Tulku, Tubten Woden](https://treasuryoflives.org/biographies/view/Fifth-Kagyu-Tulku-Tubten-Woden/13857), Treasury of Lives [Online].
+- 2024: [The Sixth Kagyu Tulku, Sanggye Gyatso](https://treasuryoflives.org/biographies/view/Sixth-Kagyu-Tulku-Sanggye-Gyatso/13858), Treasury of Lives [Online].
+- 2024: [The Seventh Kagyu Tulku, Ngawang Tenpai Gyeltsen](https://treasuryoflives.org/biographies/view/Seventh-Kagyu-Tulku-Ngawang-Tenpai-Gyeltsen/13859), Treasury of Lives [Online].
 - 2021: Provider and Destroyer of Life: Legendary and Historical Buddhist Perspectives on Water and Its Socio-Cultural Significance in Sikkim, Bulletin of Tibetology 52 (1), pp. 59-74.
 - 2021: Book review: The Royal History of Sikkim: A chronicle of the house of Namgyal, by John A Ardussi, Anna Balikci Denjongpa and Per K Sørensen, European Bulletin of Himalayan Research, 57, [Online].
 - 2021: Better than any Doctor. Buddhist Perspectives on Hot Springs in Sikkim, Himalayas. Etnološka tribina, 51 (44), pp. 54-70, [DOI 10.15378/1848-9540.2021.44.03](https://doi.org/10.15378/1848-9540.2021.44.03).

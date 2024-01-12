@@ -21,6 +21,12 @@ During the 17th century, the teachings of the Barawa teachings spread to Sikkim 
 
 ##### Related publications
 
+- 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
+- 2024: [The Third Kagyu Tulku, Ngawang Chokyi Gyatso](https://treasuryoflives.org/biographies/view/Third-Kagyu-Tulku-Ngawang-Chokyi-Gyatso/9764), Treasury of Lives [Online].
+- 2024: [The Fourth Kagyu Tulku, Kelzang Choying Gyatso](https://treasuryoflives.org/biographies/view/Fourth-Kagyu-Tulku-Kelzang-Choying-Gyatso/13856), Treasury of Lives [Online].
+- 2024: [The Fifth Kagyu Tulku, Tubten Woden](https://treasuryoflives.org/biographies/view/Fifth-Kagyu-Tulku-Tubten-Woden/13857), Treasury of Lives [Online].
+- 2024: [The Sixth Kagyu Tulku, Sanggye Gyatso](https://treasuryoflives.org/biographies/view/Sixth-Kagyu-Tulku-Sanggye-Gyatso/13858), Treasury of Lives [Online].
+- 2024: [The Seventh Kagyu Tulku, Ngawang Tenpai Gyeltsen](https://treasuryoflives.org/biographies/view/Seventh-Kagyu-Tulku-Ngawang-Tenpai-Gyeltsen/13859), Treasury of Lives [Online].
 - 2021: [Konchok Gyeltsen](https://treasuryoflives.org/biographies/view/Konchok-Gyeltsen/9761), Treasury of Lives [Online].
 - 2021: [Barawa Gyeltsen Pelzang](https://treasuryoflives.org/biographies/view/Gyeltsen-Pelzang/TBRC_P1932), Treasury of Lives [Online].
 - 2019: The Sisters of Pho lha nas. Preliminary Remarks on Two Women and Their Links to the ‘Ba’ ra ba Bka' brgyud Tradition, in Wind Horses: Tibetan, Himalayan and Mongolian Studies, ed. by Andrea Drocco, Lucia Galli, Chiara Letizia, Giacomella Orofino and Carmen Simioli, Series Minor, LXXXVIII, Napoli, pp. 139-150.
