@@ -18,6 +18,7 @@ weight: 1
 
 
 ##### Articles
+- 2024: Religious Connections, Economic Obstacles and Personal Fates: Contextualizing the Roles of Bridges in Sikkim (Himalayas), in Traditional Neighbors, Different Modernities: Bhutan, Sikkim and the Mon Region, ed. by Seiji Kumagai, Miguel Álvarez Ortega, Anna Balikci-Denjonpa and Françoise Pommaret, Trans Pacific Press.
 - 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
 - 2024: [The Third Kagyu Tulku, Ngawang Chokyi Gyatso](https://treasuryoflives.org/biographies/view/Third-Kagyu-Tulku-Ngawang-Chokyi-Gyatso/9764), Treasury of Lives [Online].
 - 2024: [The Fourth Kagyu Tulku, Kelzang Choying Gyatso](https://treasuryoflives.org/biographies/view/Fourth-Kagyu-Tulku-Kelzang-Choying-Gyatso/13856), Treasury of Lives [Online].

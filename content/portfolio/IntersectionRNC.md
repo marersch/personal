@@ -29,6 +29,7 @@ But is the relationship between man and nature always so simple and free of conf
 
 ##### Related articles
 
+- 2024: Religious Connections, Economic Obstacles and Personal Fates: Contextualizing the Roles of Bridges in Sikkim (Himalayas), in Traditional Neighbors, Different Modernities: Bhutan, Sikkim and the Mon Region, ed. by Seiji Kumagai, Miguel Álvarez Ortega, Anna Balikci-Denjonpa and Françoise Pommaret, Trans Pacific Press.
 - 2021: Provider and Destroyer of Life: Legendary and Historical Buddhist Perspectives on Water and Its Socio-Cultural Significance in Sikkim, Bulletin of Tibetology 52 (1), pp. 59-74.
 - 2021: Better than any Doctor. Buddhist Perspectives on Hot Springs in Sikkim, Himalayas. Etnološka tribina, 51 (44), pp. 54-70, [DOI 10.15378/1848-9540.2021.44.03](https://doi.org/10.15378/1848-9540.2021.44.03).
 - 2021: Risk perception of climate change and natural hazards in global mountain regions: A critical review, Stefan Schneiderbauer, Paola Fontanella Pisa, Jess L. Delves, Lydia Pedoth, Samuel Rufat, Marlene Erschbamer, Thomas Thaler, Fabio Carnelli, Sergio Granados-Chahin, Science of the Total Environment 784, [DOI 10.1016/j.scitotenv.2021.146957](https://doi.org/10.1016/j.scitotenv.2021.146957).
