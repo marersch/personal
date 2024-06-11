@@ -24,3 +24,9 @@ Based on an analysis of primary sources, this study examines the role of gender 
 - 04/2021: Buddhism and Gender Perspectives in Sikkim: Historical and Contemporary Approaches, online talk for the Tibetan Graduate Studies Seminar, Oxford University.
 - 02/2021: Religious Challenges among Buddhist communities in Sikkim (North India), Utrecht University, online conference “Religious Transformation and Gender: Contestations in/and the Study of Relgion, Gender and Sexuality”.
 - 08/2020: Remarkable Buddhist Nuns in Sikkim, Heidelberg Universität, online workshop “Female Religious Leaders and Dynamics of Female Agency in Religious Settings in South Asia”.
+
+
+
+##### Related publications
+
+- 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219.
