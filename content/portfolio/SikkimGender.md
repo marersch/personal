@@ -29,4 +29,4 @@ Based on an analysis of primary sources, this study examines the role of gender 
 
 ##### Related publications
 
-- 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219.
+- 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219, [DOI: 10.4324/9781003438823-11](www.doi.org/10.4324/9781003438823-11).
