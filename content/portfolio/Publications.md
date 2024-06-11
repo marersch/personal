@@ -18,7 +18,7 @@ weight: 1
 
 
 ##### Articles
-- 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219, [DOI 10.4324/9781003438823-11](www.doi.org/10.4324/9781003438823-11).
+- 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219, [DOI 10.4324/9781003438823-11](https://www.doi.org/10.4324/9781003438823-11).
 - 2024: Religious Connections, Economic Obstacles and Personal Fates: Contextualizing the Roles of Bridges in Sikkim (Himalayas), in Traditional Neighbors, Different Modernities: Bhutan, Sikkim and the Mon Region, ed. by Seiji Kumagai, Miguel Álvarez Ortega, Anna Balikci-Denjonpa and Françoise Pommaret, Trans Pacific Press.
 - 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
 - 2024: [The Third Kagyu Tulku, Ngawang Chokyi Gyatso](https://treasuryoflives.org/biographies/view/Third-Kagyu-Tulku-Ngawang-Chokyi-Gyatso/9764), Treasury of Lives [Online].
