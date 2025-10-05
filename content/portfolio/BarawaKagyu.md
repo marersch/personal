@@ -41,7 +41,8 @@ During the 17th century, the teachings of the Barawa teachings spread to Sikkim 
 
 ##### Related talks
 
-
+- 09/2025: Reading Outside the Lines – Motherhood and the Roles of Mothers within the Barawa Kagyu Tradition of Tibetan Buddhism, [CrossAsia Talks](https://blog.crossasia.org/crossasia-talks-erschbamer/), Staatsbibliothek zu Berlin.
+- 04/2023: Bringing Women Back into History: Female Agency in a Male-dominated Religious Context, École pratique des hautes études (EPHE) Paris, workshop “Women on the Roof of the World: Identity, Ethnicity, and Modernity”.
 - 07/2022: Authoress, messenger, nun: Nyima Chodron and her role(s) within the Barawa Kagyupa, Prague, Sixteenth Seminar of the International Association for Tibetan Studies (IATS).
 - 07/2021: Onorate, maliziose, seducenti: la tradizione Barawa (‘Ba’ ra ba bKa' brgyud pa) e la rappresentazione delle donne, Sapienza Università di Roma, Convegno AISTHiM “Traditions, Translations and Transitions in the Cultural History of Tibet, the Himalayas and Mongolia”.
 - 01/2020: Gelehrter, Gründervater, Grenzgänger: Barawa Gyeltsen Pelzang (1310-91) im Kontext seiner Zeit, Universität Wien, Guest lecture at the Department of South Asian, Tibetan and Buddhist Studies.
