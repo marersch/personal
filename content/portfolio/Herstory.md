@@ -17,3 +17,5 @@ What is presented as human history is mostly the history of men, with women bein
 This is a weekly blog (in German) about women and related stereotypes.
 
 --> [Blog](https://www.erinnermich.eu/)
+
+This work inspired me to write a novel: [Zeitwunden](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg) (in German), published under the pseudonym [Fiona Novale](https://fiona-novale.erinnermich.eu/).

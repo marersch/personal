@@ -10,6 +10,7 @@ weight: 1
 **Thoughts as door openers.** Rhetoric played a central role for the ancient Greeks. In my lectures (mainly in English, but also in German and Italian) I give an insight into my research, which consists mainly of textual studies combined with field research (where possible). My aim is to stimulate critical thinking in order to enter into fruitful dialogue and debate.
 <!--more-->
 
+- 11/2025: Another Memory, Another Perspective? When Women Preserve History, University of Bern (CH), workshop "Telling Her Story - Telling Herstory: Exploring Tibetan Buddhist Cultures through the Prism of Women's History."
 - 09/2025: Reading Outside the Lines – Motherhood and the Roles of Mothers within the Barawa Kagyu Tradition of Tibetan Buddhism, [CrossAsia Talks](https://blog.crossasia.org/crossasia-talks-erschbamer/), Staatsbibliothek zu Berlin.
 - 02/2024: Philosophische Krankheiten – Ist Philosophie ohne weibliche Perspektive eine einseitige Diät?, Philosophische Café, Urania Meran.
 - 04/2023: Bringing Women Back into History: Female Agency in a Male-dominated Religious Context, École pratique des hautes études (EPHE) Paris, workshop "Women on the Roof of the World: Identity, Ethnicity, and Modernity".
