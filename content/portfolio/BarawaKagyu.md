@@ -21,6 +21,8 @@ During the 17th century, the teachings of the Barawa teachings spread to Sikkim 
 
 ##### Related publications
 
+- 2024: Motherhood within the 'Ba' ra ba bKa' brgyud Tradition: Recollecting Mothers and their socio-religious Roles in Tibetan Buddhism, in Traditions, Translations
+and Transitions in the Cultural History of Tibet, the Himalayas and Mongolia, ed. by Donatella Rossi, Davor Antonucci, Michela Clemente & Davide Torri, Serie Orientale Roma, Nuova Serie Vol. 42, ISMEO, p. 123-141.
 - 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
 - 2024: [The Third Kagyu Tulku, Ngawang Chokyi Gyatso](https://treasuryoflives.org/biographies/view/Third-Kagyu-Tulku-Ngawang-Chokyi-Gyatso/9764), Treasury of Lives [Online].
 - 2024: [The Fourth Kagyu Tulku, Kelzang Choying Gyatso](https://treasuryoflives.org/biographies/view/Fourth-Kagyu-Tulku-Kelzang-Choying-Gyatso/13856), Treasury of Lives [Online].

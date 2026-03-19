@@ -25,6 +25,8 @@ Overall, the study offers insight into Buddhist societies by focusing on cultura
 
 ##### Related articles
 
+- 2024: Motherhood within the 'Ba' ra ba bKa' brgyud Tradition: Recollecting Mothers and their socio-religious Roles in Tibetan Buddhism, in Traditions, Translations
+and Transitions in the Cultural History of Tibet, the Himalayas and Mongolia, ed. by Donatella Rossi, Davor Antonucci, Michela Clemente & Davide Torri, Serie Orientale Roma, Nuova Serie Vol. 42, ISMEO, p. 123-141.
 - 2019: The Sisters of Pho lha nas. Preliminary Remarks on Two Women and Their Links to the ‘Ba’ ra ba Bka' brgyud Tradition, in Wind Horses: Tibetan, Himalayan and Mongolian Studies, ed. by Andrea Drocco, Lucia Galli, Chiara Letizia, Giacomella Orofino and Carmen Simioli, Series Minor, LXXXVIII, Napoli, pp. 139-150.
 
 

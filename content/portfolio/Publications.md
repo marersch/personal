@@ -18,6 +18,8 @@ weight: 1
 
 
 ##### Articles
+- 2024: Motherhood within the 'Ba' ra ba bKa' brgyud Tradition: Recollecting Mothers and their socio-religious Roles in Tibetan Buddhism, in Traditions, Translations
+and Transitions in the Cultural History of Tibet, the Himalayas and Mongolia, ed. by Donatella Rossi, Davor Antonucci, Michela Clemente & Davide Torri, Serie Orientale Roma, Nuova Serie Vol. 42, ISMEO, p. 123-141.
 - 2024: Against Marginality, Inequality, and Dependency: Remarkable Buddhist Nuns in Sikkim, in Gendered Agency in Transcultural Hinduism and Buddhism, ed. by Ute Hüsken, Agi Wittich and Nanette R. Spina. Routledge, pp. 204-219, [DOI 10.4324/9781003438823-11](https://www.doi.org/10.4324/9781003438823-11).
 - 2024: Religious Connections, Economic Obstacles and Personal Fates: Contextualizing the Roles of Bridges in Sikkim (Himalayas), in Traditional Neighbors, Different Modernities: Bhutan, Sikkim and the Mon Region, ed. by Seiji Kumagai, Miguel Álvarez Ortega, Anna Balikci-Denjonpa and Françoise Pommaret, Trans Pacific Press, pp. 285-317.
 - 2024: [The Second Kagyu Tulku, Tenzin Nyida](https://treasuryoflives.org/biographies/view/Second-Kagyu-Tulku-Tenzin-Nyida/13855), Treasury of Lives [Online].
